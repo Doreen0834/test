@@ -1,4 +1,5 @@
-print("hello world")gitgugig
+print("this is slave")
+print("hello world")
 a = 1
 b = 2
 c = 3
